@@ -1,0 +1,679 @@
+﻿Msg 5133, Level 16, State 1, Line 4
+Directory lookup for the file "C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\ECommerceDB.mdf" failed with the operating system error 3(The system cannot find the path specified.).
+Msg 1802, Level 16, State 1, Line 4
+CREATE DATABASE failed. Some file names listed could not be created. Check related errors.
+Msg 5011, Level 14, State 5, Line 11
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 11
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 18
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 18
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 20
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 20
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 22
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 22
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 24
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 24
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 26
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 26
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 28
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 28
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 30
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 30
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 32
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 32
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 34
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 34
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 36
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 36
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 38
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 38
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 40
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 40
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 42
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 42
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 44
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 44
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 46
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 46
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 48
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 48
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 50
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 50
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 52
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 52
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 54
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 54
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 56
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 56
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 58
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 58
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 60
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 60
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 62
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 62
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 64
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 64
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 66
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 66
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 68
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 68
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 70
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 70
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 72
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 72
+ALTER DATABASE statement failed.
+Msg 5011, Level 14, State 5, Line 74
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 74
+ALTER DATABASE statement failed.
+Msg 15010, Level 16, State 1, Procedure sys.sp_db_vardecimal_storage_format, Line 29 [Batch Start Line 75]
+The database 'ECommerceDB' does not exist. Supply a valid database name. To see available databases, use sys.databases.
+ 
+Available databases:
+--------------------------------------------------------------------------------------------------------------------------------
+master
+tempdb
+model
+msdb
+Shivam_Database
+
+Msg 911, Level 16, State 1, Line 78
+Database 'ECommerceDB' does not exist. Make sure that the name is entered correctly.
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+Msg 5011, Level 14, State 5, Line 965
+User does not have permission to alter database 'ECommerceDB', the database does not exist, or the database is not in a state that allows access checks.
+Msg 5069, Level 16, State 1, Line 965
+ALTER DATABASE statement failed.
+
+Completion time: 2023-11-21T14:11:29.3096893+05:30
